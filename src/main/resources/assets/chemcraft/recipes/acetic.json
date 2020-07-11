@@ -1,0 +1,13 @@
+{
+  "group": "chemcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chemcraft:etoh"
+    }
+  ],
+  "result": {
+    "item": "chemcraft:vinegar",
+    "count": 1
+  }
+}

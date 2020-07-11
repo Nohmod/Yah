@@ -1,0 +1,19 @@
+{
+  "group": "chemcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chemcraft:h2s04"
+    },
+    {
+      "item": "chemcraft:hno3"
+    },
+    {
+      "item": "chemcraft:glicerin"
+    }
+  ],
+  "result": {
+    "item": "chemcraft:nitroglicerin",
+    "count": 1
+  }
+}

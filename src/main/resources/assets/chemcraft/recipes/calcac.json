@@ -1,0 +1,16 @@
+{
+  "group": "chemcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chemcraft:vinegar"
+    },
+    {
+      "item": "chemcraft:calc"
+    }
+  ],
+  "result": {
+    "item": "chemcraft:iuap",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "chemcraft:custom/crucable3",
+  "textures": {
+    "all": "chemcraft:blocks/crucable",
+    "particle": "chemcraft:blocks/crucable",
+    "crucable": "chemcraft:blocks/crucable"
+  }
+}

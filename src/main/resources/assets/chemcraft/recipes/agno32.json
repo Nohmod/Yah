@@ -1,0 +1,16 @@
+{
+  "group": "chemcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chemcraft:hno3"
+    },
+    {
+      "item": "chemcraft:silver"
+    }
+  ],
+  "result": {
+    "item": "chemcraft:agno3",
+    "count": 1
+  }
+}

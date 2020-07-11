@@ -1,0 +1,19 @@
+{
+  "group": "chemcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chemcraft:phenol"
+    },
+    {
+      "item": "chemcraft:hno3"
+    },
+    {
+      "item": "chemcraft:h2s04"
+    }
+  ],
+  "result": {
+    "item": "chemcraft:tnp",
+    "count": 1
+  }
+}

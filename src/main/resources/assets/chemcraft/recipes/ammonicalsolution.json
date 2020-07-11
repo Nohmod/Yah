@@ -1,0 +1,17 @@
+{
+  "group": "chemcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    {
+      "item": "chemcraft:ammoniacylinder"
+    }
+  ],
+  "result": {
+    "item": "chemcraft:ammoniasolution",
+    "count": 1
+  }
+}

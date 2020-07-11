@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chemcraft:blocks/silverore",
+    "up": "chemcraft:blocks/silverore",
+    "north": "chemcraft:blocks/silverore",
+    "east": "chemcraft:blocks/silverore",
+    "south": "chemcraft:blocks/silverore",
+    "west": "chemcraft:blocks/silverore",
+    "particle": "chemcraft:blocks/silverore"
+  }
+}

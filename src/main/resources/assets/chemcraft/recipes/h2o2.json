@@ -1,0 +1,17 @@
+{
+  "group": "chemcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chemcraft:naperoxide"
+    },
+    {
+      "item": "minecraft:potion",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "chemcraft:hydrogenperoxide",
+    "count": 1
+  }
+}
